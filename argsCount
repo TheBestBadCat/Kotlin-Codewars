@@ -1,0 +1,1 @@
+fun argsCount(vararg args: Any) = args.size
